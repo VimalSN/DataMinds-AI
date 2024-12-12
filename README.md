@@ -1,4 +1,12 @@
-# DataMinds-AI
-Introduces an AI-Powered Information Extraction and Structuring System designed to process unstructured data from emails and documents. By leveraging Generative AI (GenAI) and Large Language Model (LLM) application development, the system integrates advanced tools such as LangChain for intelligent query handling and ChromaDB for vector storage. The user interface, built with Streamlit, ensures ease of use and accessibility.
+# Chat - AI
 
-The primary goal of this system is to transform unstructured text into well-structured formats, enhancing its utility for learning, understanding, and decision-making. Users can query the system to retrieve specific information, and the AI precisely extracts and organizes relevant data, presenting it in a structured and comprehensible manner. This approach not only improves data accessibility but also optimizes its usability for diverse applications.
+AI Chat App using Generative Language Client API
+
+[chat-ai](https://ai.visheshpandey.com)
+
+## Setup Procedure
+
+- Copy .env.example to .env
+- Get API key from: [api-key](https://aistudio.google.com/app/apikey)
+- `npm install`
+- `npm run dev`
